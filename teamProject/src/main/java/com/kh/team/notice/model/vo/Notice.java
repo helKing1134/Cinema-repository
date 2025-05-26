@@ -6,5 +6,6 @@ public class Notice {
 	private int noticeNo;
 	private String abc;
 	private int firefly;
+	private String zzz;
 
 }
