@@ -4,7 +4,7 @@ public class Bonus {
 	
 	private String bonus;
 	private int coin;
-	
+	private String test;
 	
 
 }
