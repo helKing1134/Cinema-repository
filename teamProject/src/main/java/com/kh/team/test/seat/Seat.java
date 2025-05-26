@@ -5,7 +5,7 @@ public class Seat {
 	
 	private int seatNumber;
 	private String seatId;
-	
+	private String string;
 	public void tmo() {
 		
 		String name = "^모^";
