@@ -4,5 +4,6 @@ public class Notice {
 
 	private String name;
 	private int noticeNo;
+	//dd
 
 }
