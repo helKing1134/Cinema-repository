@@ -6,5 +6,10 @@ public class Notice {
 	private int noticeNo;
 	private String noticeTitle;
 
+	private String abc;
+
+	private int firefly;
+	private String zzz;
+
 
 }
