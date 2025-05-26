@@ -5,5 +5,4 @@ public class HaHa {
  private int fdasfd;
  private int no;
  private String babo;
- //제가 헷갈려서 공부좀해볼려고요
 }
